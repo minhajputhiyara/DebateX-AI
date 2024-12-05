@@ -1,6 +1,6 @@
 # DebateX AI - Intelligent Debate System
 
-**DebateX AI** is a cutting-edge debate platform powered by advanced AI models. It allows users to engage in structured debates with intelligent debaters and a moderator. This system is designed to simulate engaging and informative discussions on various topics, making it an excellent tool for education, research, and entertainment.
+**DebateX AI** is a debate system powered by advanced AI models. It allows users to engage in structured debates with intelligent debaters and a moderator. This system is designed to simulate engaging and informative discussions on various topics, making it an excellent tool for education, research, and entertainment.
 
 ---
 
